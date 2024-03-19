@@ -1,4 +1,4 @@
-CREATE VIEW QUESTION_4
+CREATE VIEW QUERY_4
 AS
 SELECT TOP 5
     pd.payment_method,
