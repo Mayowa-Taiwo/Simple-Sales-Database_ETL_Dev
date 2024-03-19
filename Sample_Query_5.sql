@@ -1,4 +1,4 @@
-CREATE VIEW QUESTION_5
+CREATE VIEW QUERY_5
 AS
 SELECT top 5
     sd.sku_name,
